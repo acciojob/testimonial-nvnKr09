@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+
+.main{
+	background: #f5f5f5;
+	padding: 30px;
+}
+.testimonial{
+	background: white;
+	border: 1px solid black;
+	padding: 0px 0px 0px 15px;
+	margin: 25px 0px 20px 0px;
+}
+.author{
+	padding: 0px 20px 0px 0px;
+	text-align: right;
+}
